@@ -9,6 +9,8 @@ import './index.css'
 import Main from './layout/Main.jsx';
 import Home from './Home.jsx';
 import Form from './Form.jsx';
+import Instruction from './Instruction.jsx';
+import Modal from './Modal.jsx';
 
 const router = createBrowserRouter([
   {
@@ -22,6 +24,14 @@ const router = createBrowserRouter([
       {
         path: 'form',
         element: <Form></Form>
+      },
+      {
+        path:'instruction',
+        element:<Instruction></Instruction>
+      },
+      {
+        path:'modal',
+        element:<Modal></Modal>
       }
     ]
   },
