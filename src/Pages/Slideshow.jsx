@@ -2,14 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './Slideshow.css'
 
 
+
 const images = [
-  '/images/image1.jpg',
-  '/images/image2.jpg',
-  '/images/image3.jpg',
-  '/images/image4.jpg',
-  '/images/image5.jpg',
-  '/images/image6.jpg',
-  '/images/image7.jpg',
+  'https://i.ibb.co/mcJ4pYz/image1.jpg',
+  'https://i.ibb.co/Hnn72HJ/image2.jpg',
+  'https://i.ibb.co/WkVW3SV/image3.jpg',
+  'https://i.ibb.co/NLjN464/image4.jpg',
+  'https://i.ibb.co/gM1fR5x/image5.jpg',
+  'https://i.ibb.co/m4qzh3y/image6.jpg',
+  'https://i.ibb.co/7n8X2BC/image7.jpg',
 ];
 
 const Slideshow = () => {

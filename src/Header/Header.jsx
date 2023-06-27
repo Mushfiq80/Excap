@@ -8,7 +8,8 @@ const Header = () => {
         <div className="navbar bg-primary text-primary-content flex-col md:flex-row justify-between">
             <div>
                 <Link to="/" className='flex gap-1'>
-                    <img className='logo-excap' src="/images/Excap_logo main.png" alt="" />
+                    <img className='logo-excap' src="https://i.ibb.co/0cT0DLv/Excap-logo-main.png" alt="" />
+                    
                     <p className='ml-2 title text-orange-500'>ExCap</p>
                 </Link>
             </div>

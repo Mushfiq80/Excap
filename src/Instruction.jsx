@@ -9,7 +9,7 @@ const Instruction = () => {
                 <h3>১। <span>Name:</span> এখানে আপোর োম ইংনরজিনে জিখনেে।</h3>
                 <p></p>
             </div> */}
-            <img className='w-fit' src="/images/manual.png" alt="" />
+            <img className='w-fit' src="https://i.ibb.co/g3YQRwp/manual.png" alt="" />
 
             <a className="btn btn-error sm:btn-sm md:btn-md lg:btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScqjpLHRqLADckzTs6054yS1Jy3FZIcIdA6OK7Q3PygZWU1_g/viewform?usp=sf_link">Register Here!</a>
         </div>

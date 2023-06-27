@@ -7,8 +7,8 @@ const Footer = () => {
             <footer className="footer p-10 bg-neutral text-neutral-content">
                 <div>
                     <div className='flex gap-6'>
-                        <img className='logo-excap-foot' src="/images/Excap_logo main.png" alt="" />
-                        <img className='logo-excap-foot' src="/images/Scpsc_logo.png" />
+                        <img className='logo-excap-foot' src="https://i.ibb.co/0cT0DLv/Excap-logo-main.png" alt="" />
+                        <img className='logo-excap-foot' src="https://i.ibb.co/6ZqsnYh/Scpsc-logo.png" />
                     </div>
                     <p>Ex-Students' Association of Savar Cantonment Public School and College (Ex-Cap)<br />44/3, Malancha R/A, Wapda Road, Savar, Dhaka-1340</p>
                 </div>
