@@ -14,8 +14,8 @@ const Video = () => {
                     ></iframe>
                 </div>
                 <div className="mt-6 text-white text-center">
-                    <h1 className="text-3xl font-bold">Title</h1>
-                    <h2 className="text-lg mt-2">Subtitle</h2>
+                    <h1 className="text-3xl font-bold">In One Glance</h1>
+                    <h2 className="text-lg mt-2">ExCap Executive committee activity Documentary</h2>
                 </div>
             </div>
         </div>
